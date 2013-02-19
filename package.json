@@ -9,7 +9,7 @@
   ]
 , "repository" :
   { "type" : "git"
-  , "url" : "http://github.com/maccman/juggernaut.git"
+  , "url" : "http://github.com/tbarbugli/juggernaut.git"
   }
 , "engine" : [ "node >=0.1.102" ]
 , "main" : "./index"
